@@ -1,4 +1,3 @@
-4.23 Natural Left Join
-----------------------
-In this program we are going to join the two table by using the servlets and the result will be displayed in the browser. This join will be natural left join. 
-To join the tables firstly it is important to make a connection between the java class and the database. In our program we are using the MySql database. To join the table in a natural left join manner it is important to have those tables in our database. First of all make a class named ServletNaturalJoiningTables. The name of the class should be such that it becomes clear that what the program is going to do. The logic of the program will be written inside the doGet() method which takes two arguments HttpServletRequest and HttpServletResponse. call the method getWriter() of the PrintWriter class, which is responsible for writing the contents on the browser. Our priority is to join the two tables so pass a query in prepareStatement() method which will return the PreparedStatement object.
+![3](https://cloud.githubusercontent.com/assets/16962727/13299454/3e8288e2-db61-11e5-98c2-43ca3d78c791.JPG)
+![capture](https://cloud.githubusercontent.com/assets/16962727/13299455/3e83bdde-db61-11e5-90a6-bfbc308a3949.JPG)
+![2](https://cloud.githubusercontent.com/assets/16962727/13299456/3e89087a-db61-11e5-9ace-6c874c374b35.JPG)
