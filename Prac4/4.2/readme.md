@@ -1,5 +1,5 @@
-tomcat
-![Snapshot 1](https://cloud.githubusercontent.com/assets/16962727/12887827/d2a5c790-ce9c-11e5-9e41-2d7975127c2e.JPG)
+4.2 Displaying Date in Servlet
+------------------------------
+In this example we are going to show how we can display a current date and time on our browser. It is very easy to display it on our browser by using the Date class of the java.util package.
 
-web page
-![Snapshot ](https://cloud.githubusercontent.com/assets/16962727/12887826/d25cbb90-ce9c-11e5-81de-a131c0629087.JPG)
+
